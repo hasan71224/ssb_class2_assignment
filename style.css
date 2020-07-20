@@ -1,0 +1,74 @@
+body{
+	margin: 0px;
+	background: #ececec;
+}
+div{
+	width: 1000px;
+	margin: auto;
+	background: white;
+	padding: 50px;
+}
+img{
+	max-width: 100%;
+}
+.sp1{
+	color: blue;
+}
+.sp2{
+	color: red;
+}
+.sp3{
+	color: yellow;
+}
+.sp4{
+	color: blue;
+}
+.sp5{
+	color: green;
+}
+.sp6{
+	color: red;
+}
+.google{
+	font-family: Arial;
+	letter-spacing: -7px;
+	font-size: 45px;
+	text-align: center;
+	margin-top: -40px;
+	box-shadow: 0px 1px 0px #ece1e1;
+}
+.p1{
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial;
+	margin: 40px;
+	line-height: 1.5;
+}
+.sp7{
+}
+.sp8{
+	color: red;
+}
+.sp9{
+	color: #11b911;
+}
+.sp10{
+	color: #e7f104;
+}
+.p2{
+	font-size: 35px;
+	line-height: 1.2;
+	font-family: Arial;
+}
+.p3{
+	font-size: 20px;
+}
+.p4{
+	color: white;
+	background: #00b577;
+	text-align: center;
+	font-family: Arial;
+	font-size: 35px;
+	padding: 40px;
+	margin-top: 50px;
+}
